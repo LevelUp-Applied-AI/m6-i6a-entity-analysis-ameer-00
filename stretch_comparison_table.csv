@@ -1,0 +1,5 @@
+﻿Language,Model,Total Entities,ORG,GPE,PERSON,MISC,Density (per 100 words),No-Entity Rate
+Arabic,HF xlm-roberta,63,32,29,2,0,6.77,0%
+Arabic,spaCy xx_ent_wiki_sm,20,2,2,9,7,2.15,25%
+English,HF xlm-roberta,93,55,28,10,0,7.62,0%
+English,spaCy xx_ent_wiki_sm,93,39,27,12,15,7.62,0%
